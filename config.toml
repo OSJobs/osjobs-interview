@@ -1,7 +1,9 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://osjobs.net/interview"
+baseURL = "//osjobs.net/interview/"
+RelativeURLs=true
+CanonifyURLs=true
 title = "海外兔"
 languageCode = "zh"
 hasCJKLanguage = false
