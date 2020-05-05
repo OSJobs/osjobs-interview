@@ -238,7 +238,7 @@ uglyURLs = false
 
     # 顶栏宽度的回退值
     headerFallbackWidth = "36em"
-    # 说明：默认情况，MemE 使用 main-inner 元素
+    # 说明：默认情况，MemE 使用 :ain-inner 元素
     #      的宽度作为顶栏宽度，但是在一些页面（比
     #      如「诗意人生」和「视频片段」布局的首页），
     #      不存在 main-inner 元素，所以你需要为

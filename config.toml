@@ -262,7 +262,7 @@ uglyURLs = false
     ######################################
     # Menu Bar
 
-    enableMenu = true
+    enableMenu = false
     # Note: invalid for header layout flex
 
     displayMenuInHome = true
