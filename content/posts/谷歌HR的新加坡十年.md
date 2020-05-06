@@ -9,7 +9,7 @@ date: 2020-04-05T18:46:41+08:00
 
 <div style="text-align:center">
   <img src="https://raw.githubusercontent.com/OSJobs/osjobs-info/master/assets/imgs/Kayla.jpg" style="width:30%; border-radius:50%;"/>
-  <a href="https://www.linkedin.com/in/kaylajs/detail/photo/" style="display:block;"/>Kayla | 领英</a>
+  <a href="https://www.linkedin.com/in/kaylajs/" style="display:block;"/>Kayla | 领英</a>
 </div>
 
 <hr>
