@@ -3,6 +3,9 @@
   <meta charset="utf-8">
   <base href="">
   <title>Overseas Rabbit | 海外兔</title>
+  {{ if not .Site.IsServer }}
+    {{ template "_internal/google_analytics_async.html" . }}
+  {{ end }}
 </head>
 <body>
   <div class="header-wrapper">
