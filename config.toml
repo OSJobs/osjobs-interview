@@ -714,20 +714,20 @@ uglyURLs = false
     displayPublishedDate = true
     publishedDateIcon = "calendar-alt"
 
-    displayModifiedDate = true
+    displayModifiedDate = false
     modifiedDateIcon = "calendar-check"
 
-    displayExpiredDate = true
+    displayExpiredDate = false
     expiredDateIcon = "calendar-times"
 
     displayCategory = true
     categoryIcon = "folder"
     categoryDelimiter = "/"
 
-    displayWordCount = true
+    displayWordCount = false
     wordCountIcon = "pencil-alt"
 
-    displayReadingTime = true
+    displayReadingTime = false
     readingTimeIcon = "clock"
 
     displayBusuanziPagePV = false
