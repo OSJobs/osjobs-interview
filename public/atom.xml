@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
     <title type="text">海外兔</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2020-09-14T09:22:55+08:00</updated>
+    <updated>2020-09-14T09:24:09+08:00</updated>
     <id>//osjobs.net/interview/</id>
     <link rel="alternate" type="text/html" href="//osjobs.net/interview/" />
     <link rel="self" type="application/atom+xml" href="//osjobs.net/interview/atom.xml" />
@@ -20,16 +20,16 @@
             <title type="text">编程艺术家 Lee215 的算法旅程</title>
             <link rel="alternate" type="text/html" href="//osjobs.net/interview/posts/%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF%E5%AE%B6-lee215-%E7%9A%84%E7%AE%97%E6%B3%95%E6%97%85%E7%A8%8B/" />
             <id>//osjobs.net/interview/posts/%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF%E5%AE%B6-lee215-%E7%9A%84%E7%AE%97%E6%B3%95%E6%97%85%E7%A8%8B/</id>
-            <updated>2020-09-14T09:18:46+08:00</updated>
+            <updated>2020-09-14T09:23:55+08:00</updated>
             <published>2020-09-13T16:40:41+08:00</published>
             <author>
                     <name>Windson Yang</name>
                     <uri>https://osjobs.net</uri>
                     <email>wiwindson@outlook.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<p>大家好，我是Lee215，一名普通的算法爱好者，希望通过编程的方式给大家带来愉悦和惊喜的感受。感谢 Windson 的这一次采访。欢迎大家 Follow 我不定期更新的 <a href="https://www.youtube.com/channel/UCUBt1TDQTl1atYsscVoUzoQ">Youtube</a> 和 <a href="https://space.bilibili.com/423728559">B 站</a>。也可以通过公众号 “Lee215的Code” 了解更多。</p>]]></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<p>大家好，我是 Lee215，一名普通的算法爱好者，希望通过编程的方式给大家带来愉悦和惊喜的感受。感谢 Windson 的这一次采访。欢迎大家 Follow 我不定期更新的 <a href="https://www.youtube.com/channel/UCUBt1TDQTl1atYsscVoUzoQ">Youtube</a> 和 <a href="https://space.bilibili.com/423728559">B 站</a>。也可以通过公众号 “Lee215的Code” 了解更多。</p>]]></summary>
             
-                <content type="html"><![CDATA[<p>大家好，我是Lee215，一名普通的算法爱好者，希望通过编程的方式给大家带来愉悦和惊喜的感受。感谢 Windson 的这一次采访。欢迎大家 Follow 我不定期更新的 <a href="https://www.youtube.com/channel/UCUBt1TDQTl1atYsscVoUzoQ">Youtube</a> 和 <a href="https://space.bilibili.com/423728559">B 站</a>。也可以通过公众号 “Lee215的Code” 了解更多。</p>
+                <content type="html"><![CDATA[<p>大家好，我是 Lee215，一名普通的算法爱好者，希望通过编程的方式给大家带来愉悦和惊喜的感受。感谢 Windson 的这一次采访。欢迎大家 Follow 我不定期更新的 <a href="https://www.youtube.com/channel/UCUBt1TDQTl1atYsscVoUzoQ">Youtube</a> 和 <a href="https://space.bilibili.com/423728559">B 站</a>。也可以通过公众号 “Lee215的Code” 了解更多。</p>
 <p><strong>“你现在是 Leetcode 上分数最高的用户，大家都很好奇你的计算机比赛经历，你是从什么时候开始参加计算机比赛的？”</strong></p>
 <p>我在初高中时期曾参加过数学竞赛，但大学期间我并没有参加过计算机比赛，本科毕业的时候我还没听说过 ACM （国际大学生程序设计竞赛）。2018 年我开始固定参加 Leetcode 上的比赛并写题解，后来也慢慢接触了 Google Kickstart 以及 CF 等其他类型的比赛。跟许多人的心态不太一样，我当初接触 Leetcode 的初衷并不是因为要面试而去刷题，那时候 Leetcode 还是一个小众的平台，对我来说它更像一个解谜，做数学题的地方。</p>
 <p><strong>“你还记得第一次参加 Leetcode 比赛的时候做出了多少题吗？参加了多少次之后能够完成四道题目？”</strong></p>
