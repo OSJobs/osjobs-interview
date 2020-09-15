@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Mon, 14 Sep 2020 09:37:14 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2020 20:07:09 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="//osjobs.net/interview/rss.xml" />
         
@@ -39,6 +39,10 @@
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
                     <description><![CDATA[<p>大家好，我是 Lee215，一名普通的算法爱好者，希望通过编程的方式给大家带来愉悦和惊喜的感受。感谢 Windson 的这一次采访。欢迎大家 Follow 我不定期更新的 <a href="https://www.youtube.com/channel/UCUBt1TDQTl1atYsscVoUzoQ">Youtube</a> 和 <a href="https://space.bilibili.com/423728559">B 站</a>。也可以通过公众号 “Lee215的Code” 了解更多。</p>
+<div style="text-align:center">
+  <img src="https://cdn.jsdelivr.net/gh/OSJobs/osjobs-info@master/assets/imgs/Lee.jpg" style="width:30%; border-radius:50%;"/>
+</div>
+<hr>
 <p><strong>“你现在是 Leetcode 上分数最高的用户，大家都很好奇你的计算机比赛经历，你是从什么时候开始参加计算机比赛的？”</strong></p>
 <p>我在初高中时期曾参加过数学竞赛，但大学期间我并没有参加过计算机比赛，本科毕业的时候我还没听说过 ACM （国际大学生程序设计竞赛）。2018 年我开始固定参加 Leetcode 上的比赛并写题解，后来也慢慢接触了 Google Kickstart 以及 CF 等其他类型的比赛。跟许多人的心态不太一样，我当初接触 Leetcode 的初衷并不是因为要面试而去刷题，那时候 Leetcode 还是一个小众的平台，对我来说它更像一个解谜，做数学题的地方。</p>
 <p><strong>“你还记得第一次参加 Leetcode 比赛的时候做出了多少题吗？参加了多少次之后能够完成四道题目？”</strong></p>
