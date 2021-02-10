@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
     <title type="text">海外兔</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2020-09-15T20:07:09+08:00</updated>
+    <updated>2021-02-10T21:59:23+08:00</updated>
     <id>//osjobs.net/interview/</id>
     <link rel="alternate" type="text/html" href="//osjobs.net/interview/" />
     <link rel="self" type="application/atom+xml" href="//osjobs.net/interview/atom.xml" />
@@ -15,19 +15,21 @@
                 <email>wiwindson@outlook.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
-    <generator uri="https://gohugo.io/" version="0.67.0">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.80.0">Hugo</generator>
         <entry>
             <title type="text">编程艺术家 Lee215 的算法旅程</title>
             <link rel="alternate" type="text/html" href="//osjobs.net/interview/posts/%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF%E5%AE%B6-lee215-%E7%9A%84%E7%AE%97%E6%B3%95%E6%97%85%E7%A8%8B/" />
             <id>//osjobs.net/interview/posts/%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF%E5%AE%B6-lee215-%E7%9A%84%E7%AE%97%E6%B3%95%E6%97%85%E7%A8%8B/</id>
-            <updated>2020-09-15T20:04:49+08:00</updated>
+            <updated>2021-02-10T21:59:04+08:00</updated>
             <published>2020-09-13T16:40:41+08:00</published>
             <author>
                     <name>Windson Yang</name>
                     <uri>https://osjobs.net</uri>
                     <email>wiwindson@outlook.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<p>大家好，我是 Lee215，一名普通的算法爱好者，希望通过编程的方式给大家带来愉悦和惊喜的感受。感谢 Windson 的这一次采访。欢迎大家 Follow 我不定期更新的 <a href="https://www.youtube.com/channel/UCUBt1TDQTl1atYsscVoUzoQ">Youtube</a> 和 <a href="https://space.bilibili.com/423728559">B 站</a>。也可以通过公众号 “Lee215的Code” 了解更多。</p>]]></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    
+    <summary type="html"><![CDATA[<p>大家好，我是 Lee215，一名普通的算法爱好者，希望通过编程的方式给大家带来愉悦和惊喜的感受。感谢 Windson 的这一次采访。欢迎大家 Follow 我不定期更新的 <a href="https://www.youtube.com/channel/UCUBt1TDQTl1atYsscVoUzoQ">Youtube</a> 和 <a href="https://space.bilibili.com/423728559">B 站</a>。也可以通过公众号 “Lee215的Code” 了解更多。</p>……]]></summary>
             
                 <content type="html"><![CDATA[<p>大家好，我是 Lee215，一名普通的算法爱好者，希望通过编程的方式给大家带来愉悦和惊喜的感受。感谢 Windson 的这一次采访。欢迎大家 Follow 我不定期更新的 <a href="https://www.youtube.com/channel/UCUBt1TDQTl1atYsscVoUzoQ">Youtube</a> 和 <a href="https://space.bilibili.com/423728559">B 站</a>。也可以通过公众号 “Lee215的Code” 了解更多。</p>
 <div style="text-align:center">
@@ -80,7 +82,7 @@
 <p><strong>“现阶段国人开发和维护的开源项目数量比较少，最出名的就是 Vue，如何鼓励年轻的程序员去参与开源项目？</strong>”</p>
 <p>这个问题还挺大的，我一个人肯定解决不了。有一点原因可能是跟竞争有关系。中国人这么多程序员，大家还吃不饱饭，要花时间去来做社区就比较难。这方面可以借鉴一下印度人的做法。我觉得很多的印度程序员，咱不说他的水平怎么样，他们不管做什么事情都愿意做个网站或写个 Blog。其实我有时候感觉他们写得没那么好，但是他们就特别爱这个事情。常有一些人在我的那个帖子底下贴上他们 Youtube 的链接。就说如果不明白的话来看我的视频，他们还是挺擅长宣传自己的，我觉得这是国人值得学习的。</p>
 <p><strong>“你能推荐一些算法方面的学习资源给大家吗？”</strong></p>
-<p>我没怎么看过算法书，推荐不了，不过我能推荐很多有意思的数学书，例如《从零到无穷大》。</p>
+<p>我没怎么看过算法书，推荐不了，不过我能推荐很多有意思的数学书，例如《从一到无穷大》。</p>
 <p><strong>“你自己的偶像是谁？例如名人或者科学家？”</strong></p>
 <p>这太难选了，我一般都说我喜欢杨幂，哈哈哈哈，北京大妞，我觉得性格挺爽朗的。</p>
 <p><strong>“如果可以随便选世界上任意一个地方，你会想去哪里工作呢？</strong></p>
@@ -116,7 +118,9 @@
                     <uri>https://osjobs.net</uri>
                     <email>wiwindson@outlook.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<p>大家好，我是 Xiaosong，之前在 DLR 担任汽车工程师，最近入职了甲骨文云计算的基础架构部门。从读研究生到工作这段时间，我在美国待了三年时间。</p>]]></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    
+    <summary type="html"><![CDATA[<p>大家好，我是 Xiaosong，之前在 DLR 担任汽车工程师，最近入职了甲骨文云计算的基础架构部门。从读研究生到工作这段时间，我在美国待了三年时间。</p>……]]></summary>
             
                 <content type="html"><![CDATA[<p>大家好，我是 Xiaosong，之前在 DLR 担任汽车工程师，最近入职了甲骨文云计算的基础架构部门。从读研究生到工作这段时间，我在美国待了三年时间。</p>
 <div style="text-align:center">
@@ -176,7 +180,9 @@
                     <uri>https://osjobs.net</uri>
                     <email>wiwindson@outlook.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[<p>大家好，我是 Kayla，目前在谷歌 APAC Staffing 团队负责亚太地区的软件开发工程师招聘，之前在 Sea Group（Formerly Garena）新加坡总部负责 R&amp;D 研发部门的招聘工作。从读大学到工作这段时间，我在新加坡已经待了十年了。</p>]]></summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    
+    <summary type="html"><![CDATA[<p>大家好，我是 Kayla，目前在谷歌 APAC Staffing 团队负责亚太地区的软件开发工程师招聘，之前在 Sea Group（Formerly Garena）新加坡总部负责 R&amp;D 研发部门的招聘工作。从读大学到工作这段时间，我在新加坡已经待了十年了。</p>……]]></summary>
             
                 <content type="html"><![CDATA[<p>大家好，我是 Kayla，目前在谷歌 APAC Staffing 团队负责亚太地区的软件开发工程师招聘，之前在 Sea Group（Formerly Garena）新加坡总部负责 R&amp;D 研发部门的招聘工作。从读大学到工作这段时间，我在新加坡已经待了十年了。</p>
 <div style="text-align:center">

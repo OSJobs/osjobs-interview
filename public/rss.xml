@@ -10,7 +10,7 @@
         <title>海外兔</title>
         <link>//osjobs.net/interview/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
-        <generator>Hugo 0.67.0 https://gohugo.io/</generator>
+        <generator>Hugo 0.80.0 https://gohugo.io/</generator>
         
             <language>zh</language>
         
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Tue, 15 Sep 2020 20:07:09 +0800</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2021 21:59:23 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="//osjobs.net/interview/rss.xml" />
         
@@ -89,7 +89,7 @@
 <p><strong>“现阶段国人开发和维护的开源项目数量比较少，最出名的就是 Vue，如何鼓励年轻的程序员去参与开源项目？</strong>”</p>
 <p>这个问题还挺大的，我一个人肯定解决不了。有一点原因可能是跟竞争有关系。中国人这么多程序员，大家还吃不饱饭，要花时间去来做社区就比较难。这方面可以借鉴一下印度人的做法。我觉得很多的印度程序员，咱不说他的水平怎么样，他们不管做什么事情都愿意做个网站或写个 Blog。其实我有时候感觉他们写得没那么好，但是他们就特别爱这个事情。常有一些人在我的那个帖子底下贴上他们 Youtube 的链接。就说如果不明白的话来看我的视频，他们还是挺擅长宣传自己的，我觉得这是国人值得学习的。</p>
 <p><strong>“你能推荐一些算法方面的学习资源给大家吗？”</strong></p>
-<p>我没怎么看过算法书，推荐不了，不过我能推荐很多有意思的数学书，例如《从零到无穷大》。</p>
+<p>我没怎么看过算法书，推荐不了，不过我能推荐很多有意思的数学书，例如《从一到无穷大》。</p>
 <p><strong>“你自己的偶像是谁？例如名人或者科学家？”</strong></p>
 <p>这太难选了，我一般都说我喜欢杨幂，哈哈哈哈，北京大妞，我觉得性格挺爽朗的。</p>
 <p><strong>“如果可以随便选世界上任意一个地方，你会想去哪里工作呢？</strong></p>

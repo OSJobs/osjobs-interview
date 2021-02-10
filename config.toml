@@ -6,7 +6,7 @@ RelativeURLs=true
 CanonifyURLs=true
 title = "海外兔"
 languageCode = "zh"
-hasCJKLanguage = false
+hasCJKLanguage = true
 # Copyright information (Markdown supported)
 copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
 
