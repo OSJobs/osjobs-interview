@@ -1,38 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>//osjobs.net/interview/posts/</loc>
     <lastmod>2021-03-29T09:46:55+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//osjobs.net/interview/</loc>
     <lastmod>2021-03-29T09:46:55+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//osjobs.net/interview/posts/%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF%E5%AE%B6-lee215-%E7%9A%84%E7%AE%97%E6%B3%95%E6%97%85%E7%A8%8B/</loc>
     <lastmod>2021-03-29T09:46:55+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//osjobs.net/interview/posts/%E4%BB%8E%E6%B1%BD%E8%BD%A6%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%BD%AC%E5%8F%98%E4%B8%BA%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88/</loc>
     <lastmod>2020-06-01T09:24:16+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//osjobs.net/interview/posts/%E8%B0%B7%E6%AD%8Chr%E7%9A%84%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%8D%81%E5%B9%B4/</loc>
     <lastmod>2020-05-06T20:02:08+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//osjobs.net/interview/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//osjobs.net/interview/tags/</loc>
   </url>
-  
 </urlset>
