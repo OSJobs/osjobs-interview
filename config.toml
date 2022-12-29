@@ -623,24 +623,13 @@ uglyURLs = false
 
 
     ######################################
-    # Google Analytics
-
-    # Note: render only in production
-    #       environment
-
-    enableGoogleAnalytics = true
-
-    trackingCodeType = "gtag"
-    # Note: gtag or analytics
-
-    trackingID = "UA-101956048-11"
-
-
-    ######################################
     # Google Site Verification
 
     googleSiteVerification = ""
 
+    trackingID = ""
+
+    enableGoogleAnalytics = false
 
     ######################################
     # Google AdSense
